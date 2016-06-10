@@ -1,0 +1,32 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.sisopipo</groupId>
+		<artifactId>sspp_platform_pom</artifactId>
+		<version>1.3.5.0</version>
+	</parent>
+	<artifactId>community-project</artifactId>
+	<packaging>pom</packaging>
+	<name>community-project</name>
+	<url>http://maven.apache.org</url>
+
+	<developers>
+		<developer>
+			<id>gelnyang</id>
+			<name>gelnyang</name>
+			<email>gelnyang@163.com</email>
+		</developer>
+	</developers>
+
+	<properties>
+	</properties>
+
+	<dependencies>
+
+	</dependencies>
+	<build>
+		<plugins>
+		</plugins>
+	</build>
+</project>
